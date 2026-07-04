@@ -1,0 +1,122 @@
+Overview
+
+This repository presents the development and validation of an Integrated Vehicle Health Management (IVHM) framework for aerospace platforms using NI VeriStand, LabVIEW, and National Instruments hardware.
+
+The project focuses on real-time monitoring, fault detection, diagnostics, automated testing, and Hardware-in-the-Loop validation of aerospace systems.
+
+Objectives
+
+Design an IVHM architecture
+Acquire real-time sensor data
+Interface NI DAQ hardware
+Develop automated health monitoring algorithms
+Perform Hardware-in-the-Loop testing
+Inject faults for validation
+Verify subsystem performance
+Generate diagnostic reports
+
+Technologies
+
+MATLAB
+Simulink
+NI VeriStand
+LabVIEW
+NI DAQ Hardware
+CAN Communication
+Serial Communication
+Real-Time Monitoring
+
+Hardware Interface
+
+National Instruments DAQ
+Analog Inputs
+Digital Inputs
+CAN Interface
+Sensor Interface
+Actuator Interface
+Real-Time Data Logging
+
+Features
+
+Real-time data acquisition
+Health monitoring dashboard
+Automated fault detection
+Fault isolation
+Test case execution
+Alarm generation
+Sensor validation
+Signal conditioning
+Data logging
+Hardware verification
+
+Test Cases
+
+Sensor Failure
+Sensor Drift
+Signal Loss
+CAN Communication Failure
+Power Failure
+Actuator Failure
+High Temperature
+Low Voltage
+Pressure Out of Range
+Communication Timeout
+Invalid Sensor Data
+Fault Recovery
+
+Validation
+
+Software-in-the-Loop (SIL)
+Hardware-in-the-Loop (HIL)
+Real-time hardware validation
+Automated regression testing
+Functional verification
+
+Repository Contents
+
+IVHM/
+│
+├── LabVIEW Project
+├── NI VeriStand Workspace
+├── MATLAB Models
+├── Simulink Models
+├── Hardware Configuration
+├── Test Cases
+├── Fault Injection
+├── Sensor Logs
+├── CAN Logs
+├── Demo Videos
+├── Images
+└── Documentation
+Demo
+
+Include:
+
+LabVIEW dashboard videos
+NI VeriStand workspace
+Hardware setup photos
+Hardware testing videos
+Fault injection demonstrations
+Sensor monitoring
+DAQ acquisition
+CAN communication
+Health monitoring dashboard
+
+Skills Demonstrated
+
+Aerospace IVHM
+Systems Engineering
+Hardware-in-the-Loop
+NI VeriStand
+LabVIEW
+National Instruments Hardware
+MATLAB
+Simulink
+Real-Time Systems
+Data Acquisition
+Diagnostics
+Prognostics
+Fault Detection and Isolation (FDI)
+Sensor Integration
+Embedded Systems
+Control Systems
